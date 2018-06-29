@@ -1,0 +1,87 @@
+body{
+	background-image: url('obat.jpg') fixed;
+  background-size: 100%;
+}
+#utama { 
+background-image: url("sd.jpg"); 
+background-size: cover; 
+height: 680px; 
+} 
+
+.header_isi { 
+  width: 335px; 
+  height: 230px; 
+  padding: 180px 0px 90px 480px; 
+} 
+
+.gambar { 
+    background-color: rgba(255, 255, 255, 0.85);
+    padding: 20px 0px;
+    box-shadow: 0px 6px 10px 15px #9e9e9e70;
+}
+
+img { 
+  width: 250px; 
+  height: 100px; 
+  margin-left: 45px; 
+  margin-top: 15px; 
+} 
+
+.login_regis { 
+  height: 40px; 
+  width: 260px; 
+  text-align: center; 
+  color: #333; 
+  font-size: 17px; 
+  border-radius: 8px; 
+  background-color: rgba(225, 255, 255, 0.4); 
+  border: 3px solid #0288D1; 
+  margin-left: 42px; 
+  margin-top: 10px; 
+} 
+
+form{
+      margin-bottom: 0px;
+}
+
+.tombol_login { 
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    background-color: #0288D1;
+    color: #333;
+    font-size: 17px;
+    border: 2px solid #0288D1;
+    margin-top: 20px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.chexbox { 
+  font-size: 15px; 
+  color: white; 
+  margin-left: 45px; 
+  margin-top: 10px; 
+} 
+
+.login_regis:hover { 
+  border: 3px solid #635656;
+  color: #333; 
+} 
+
+.tombol_login:hover { 
+    background-color: #115c86;
+    color: #ffffff;
+    border: 3px solid #115c86;
+}
+.copyright { 
+  margin-top: 150px; 
+  color: #0288D1; 
+  font-size: 17px; 
+  margin-left: 10px; 
+} 
+
+a { 
+  text-decoration: none; 
+  color: black; 
+} 

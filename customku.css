@@ -1,0 +1,81 @@
+body{
+	margin: 0px;
+	background-color: black;
+    background-image: url('obat.jpg');
+}
+p {
+    display: block;
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+#wrapper{
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+#hitung{
+	margin: 0 auto;
+    width: 100%;
+    background: #aac5f7;
+    padding: 20px;
+    margin: 10px 0px;
+}
+#keluar{
+	    margin: 0 auto;
+    width: 100%;
+    background: #ea7777;
+    padding: 20px;
+    margin: 10px 0px;
+}
+#wrappermain{
+    float: left;
+    width: 100%;
+    margin: 20px 0px;
+}
+.Ket{
+	font-weight: 700;
+    font-family: calibri;
+    line-height: 1.3em;
+    text-transform: capitalize;
+}
+#kotak{
+    width: 100%;
+    max-width: 200px;
+    border: 1px solid #ccc;
+    float: left;
+    background: #fff;
+    padding: 20px;
+    margin: 10px 12px;
+    text-align: center;
+}
+#menukita{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: calibri;
+    text-align: center;
+    float: left;
+    margin: 10px 0px;
+    width: 100%;
+    padding: 10px 0px;
+    border-bottom: 5px solid #3498db;
+    border-top: 5px solid #3498db;
+}
+.gambarmenu{
+	width: 10%;
+}
+#footer{
+	float: left;
+    width: 100%;
+    border-top: 4px solid #827e7e;
+    color: #fff;
+    font-size: 15px;
+    margin-top: 20px;
+    background: #3c3c3c;
+    text-align: center;
+}
+#footerku{
+	padding: 10px 0px;
+}
